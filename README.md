@@ -1,6 +1,6 @@
 # Dual-WaterMark
 
-Dual-WaterMark 是一個兩頁式 Gradio Demo，整合 **EditGuard** 與 **StegaStamp-pytorch**：
+Dual-WaterMark 是一個兩頁式 Gradio Demo，整合 **[EditGuard](https://github.com/xuanyuzhang21/EditGuard)** 與 **[StegaStamp-pytorch](https://github.com/jsrdcht/StegaStamp-pytorch)**：
 
 1. **Add Watermark Pipeline**
    - 先嵌入 EditGuard（64-bit）
