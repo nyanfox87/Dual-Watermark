@@ -13,7 +13,7 @@ cd /home/project/Documents/Dual-WaterMark
 
 - 預設 Python：`/home/project/Documents/EditGuard/envs/editguard/bin/python`
 - 服務位址（本機）：`http://127.0.0.1:7867`
-- 服務位址（局域網）：`https://api.watermark.nyanfox.com/`
+- 服務位址：`https://api.watermark.nyanfox.com/`
 
 ---
 
